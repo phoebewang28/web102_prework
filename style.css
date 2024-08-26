@@ -73,3 +73,11 @@ button {
     margin: 1%;
     border-radius: 7px;
 }
+
+input {
+  font-family: "Cabin";
+  border: none;
+  padding: 1%;
+  margin: 1%;
+  border-radius: 7px;
+}
