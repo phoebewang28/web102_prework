@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/codepath-webdev-lIdMlNd' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='assets/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 
@@ -36,7 +36,7 @@ GIF created with Kap
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Honestly, didn't have many difficulties besides some trouble using git...
 
 ## License
 
