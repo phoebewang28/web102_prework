@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='assets/Kapture 2024-08-25 at 23.07.14.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='assets/Kapture 2024-08-29 at 23.22.21.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 
